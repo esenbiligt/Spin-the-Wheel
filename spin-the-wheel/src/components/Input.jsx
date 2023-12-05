@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { useEffect } from "react";
 
 export default function Input(props) {
   const [input, setInput] = useState("");
